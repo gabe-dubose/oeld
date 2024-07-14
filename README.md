@@ -1,2 +1,2 @@
 # oeld
-Ophryocystis elektroscirrha
+Ophryocystis elektroscirrha life cycle description
